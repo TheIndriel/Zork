@@ -1,0 +1,12 @@
+C:\Users\jdown\git\Arsenault_Final\Zork\bin\Debug\netcoreapp2.1\Zork.deps.json
+C:\Users\jdown\git\Arsenault_Final\Zork\bin\Debug\netcoreapp2.1\Zork.runtimeconfig.json
+C:\Users\jdown\git\Arsenault_Final\Zork\bin\Debug\netcoreapp2.1\Zork.runtimeconfig.dev.json
+C:\Users\jdown\git\Arsenault_Final\Zork\bin\Debug\netcoreapp2.1\Zork.dll
+C:\Users\jdown\git\Arsenault_Final\Zork\bin\Debug\netcoreapp2.1\Zork.pdb
+C:\Users\jdown\git\Arsenault_Final\Zork\obj\Debug\netcoreapp2.1\Zork.csprojAssemblyReference.cache
+C:\Users\jdown\git\Arsenault_Final\Zork\obj\Debug\netcoreapp2.1\Zork.AssemblyInfoInputs.cache
+C:\Users\jdown\git\Arsenault_Final\Zork\obj\Debug\netcoreapp2.1\Zork.AssemblyInfo.cs
+C:\Users\jdown\git\Arsenault_Final\Zork\obj\Debug\netcoreapp2.1\Zork.csproj.CoreCompileInputs.cache
+C:\Users\jdown\git\Arsenault_Final\Zork\obj\Debug\netcoreapp2.1\Zork.dll
+C:\Users\jdown\git\Arsenault_Final\Zork\obj\Debug\netcoreapp2.1\Zork.pdb
+C:\Users\jdown\git\Arsenault_Final\Zork\obj\Debug\netcoreapp2.1\Zork.genruntimeconfig.cache
